@@ -40,7 +40,7 @@ To get a local copy up and running follow the simple steps.
    ```sh
    git clone https://github.com/suraj-singh127/Zen-Monke-Master
    ```
-## Have a Look  
+## Install the package manager 
 ```sh
    npm install --save-dev parcel
    npx parcel index.html
