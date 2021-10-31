@@ -65,5 +65,7 @@ Stories from  - <a href = "https://www.reddit.com/r/nosleep/" > No Sleep🎃 on 
 Images from - <a href = "https://unsplash.com/" > No Sleep on Reddit and Unsplash.com</a>
 
 Our team Members - 
-<a href = "https://github.com/suraj-singh127" >Suraj</a>
-<a href = "https://github.com/ahleena" >Alina</a>
+Suraj - 
+<a href = "https://github.com/suraj-singh127" >Github Profile</a>
+Alina - 
+<a href = "https://github.com/ahleena" >Github Profile</a>
