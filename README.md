@@ -63,3 +63,7 @@ Our maintainer will notice your contribution and will review your work which can
 
 Stories from  - <a href = "https://www.reddit.com/r/nosleep/" > No Sleep🎃 on Reddit</a>
 Images from - <a href = "https://unsplash.com/" > No Sleep on Reddit and Unsplash.com</a>
+
+Our team Members - 
+<a href = "https://github.com/suraj-singh127" >Suraj</a>
+<a href = "https://github.com/ahleena" >Alina</a>
