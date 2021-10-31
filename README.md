@@ -38,7 +38,7 @@ To get a local copy up and running follow the simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/suraj-singh127/Zen-Monke-Master
+   git clone https://github.com/suraj-singh127/Hallow-master
    ```
 ## Install the package manager 
 ```sh
