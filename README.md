@@ -62,4 +62,4 @@ Our maintainer will notice your contribution and will review your work which can
 6. Open a Pull Request
 
 Stories from  - <a href = "https://www.reddit.com/r/nosleep/" > No Sleep🎃 on Reddit</a>
-Images from - <a href = "https://unsplash.com/" > No Sleep on Reddit</a>
+Images from - <a href = "https://unsplash.com/" > No Sleep on Reddit and Unsplash.com</a>
